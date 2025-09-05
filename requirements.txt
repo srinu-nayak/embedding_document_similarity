@@ -1,0 +1,10 @@
+transformers
+huggingface-hub
+langchain-huggingface
+langchain
+langchain-experimental
+
+numpy
+scikit-learn
+pandas
+python-dotenv
